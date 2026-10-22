@@ -2,6 +2,7 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Bio from "./components/Bio";
 import Profile from "./components/Profile";
+import StatCard from "./components/StatCard";
 
 
 function App() {
